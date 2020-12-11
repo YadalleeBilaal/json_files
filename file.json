@@ -19,6 +19,7 @@
 		"title":"random book",
 		"author":"john doe"
 	},{
-		"id":5
+		"id":5,
+		"book": "github"
 	}
 ]
